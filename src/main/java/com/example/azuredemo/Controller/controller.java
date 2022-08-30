@@ -10,7 +10,7 @@ public class controller {
     public String index(){
         String a= "Hello World";
         System.out.println(a);
-        return "Index";
+        return a;
 
     }
 
